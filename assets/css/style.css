@@ -23,6 +23,10 @@ header {
     background-color: seagreen;
 }
 
+h1 {
+    font-family: 'Sintony', sans-serif;
+}
+
 /* Main content */
 main {
     background-color: aqua;
