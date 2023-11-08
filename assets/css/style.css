@@ -44,7 +44,9 @@ h1 {
 }
 
 #menu > li {
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
+    float: left;
+    margin-right: 1.875rem;
 }
 
 .active {
