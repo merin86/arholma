@@ -43,7 +43,7 @@ h1 {
     list-style-type: none;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 0.5em;
     float: left;
     margin-right: 1.875rem;
@@ -64,4 +64,37 @@ main {
 /* Footer */
 footer {
     background-color: aquamarine;
+}
+
+/* Media query: tablets and larger (768px and up */
+@media screen and (min-width: 768px) {
+
+    /* Header */
+    header {
+        display: block;
+    }
+    
+    nav {
+        float: right;
+        display: block;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #logo {
+        font-size: 380%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+        float:left
+    }
+}
+
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid black;
+    }
+    
 }
