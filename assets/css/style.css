@@ -80,14 +80,18 @@ footer {
     }
 
     #menu {
-        display: flex;
+        line-height: 4.5rem;
     }
 
     #logo {
-        font-size: 380%;
+        font-size: 280%;
         line-height: 75px;
         margin: 0 0.5rem;
         float:left
+    }
+
+    main {
+        margin-top: 81px;
     }
 }
 
