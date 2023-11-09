@@ -62,9 +62,10 @@ main {
 }
 
 /* Footer */
-#footer {
-    width: 100%;
-    padding-left: 3.125rem;
+#getting-there {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 #footer h3 {
@@ -76,12 +77,6 @@ main {
 #footer hr {
     height: 4px;
     background-color: black;
-}
-
-#getting-there {
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
 }
 
 #getting-there i {
