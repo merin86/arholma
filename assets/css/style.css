@@ -62,8 +62,22 @@ main {
 }
 
 /* Footer */
-footer {
-    background-color: aquamarine;
+#footer h3 {
+    text-align: center;
+}
+
+#getting-there {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#getting-there i {
+    font-size: 160%;
+    padding: 5%;
+    color:black;
 }
 
 /* Media query: tablets and larger (768px and up */
