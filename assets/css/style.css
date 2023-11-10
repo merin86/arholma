@@ -62,10 +62,20 @@ main {
 }
 
 /* Footer */
-#getting-there {
-    list-style-type: none;
+footer {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+}
+
+footer div {
+   display: flex;
+   flex-direction: column;
+}
+
+#footer {
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
 }
 
 #footer h3 {
@@ -75,14 +85,26 @@ main {
 }
 
 #footer hr {
-    height: 4px;
+    height: 2px;
     background-color: black;
+    margin: 2px 4px;
 }
 
-#getting-there i {
+.row {
+    flex-direction: row;
+}
+
+.column {
+    list-style-type: none;
+    float: left;
+    width: 33.33%;
+    text-align: center;
+}
+
+.column i {
     font-size: 160%;
-    padding: 5%;
-    color:black;
+    padding: 10%;
+    color: black;
 }
 
 /* Media query: tablets and larger (768px and up */
@@ -90,12 +112,12 @@ main {
 
     /* Header */
     header {
-        display: block;
+       
     }
-    
+
     nav {
         float: right;
-        display: block;
+    
     }
 
     #menu {
@@ -106,15 +128,15 @@ main {
         font-size: 280%;
         line-height: 75px;
         margin: 0 0.5rem;
-        float:left
+        float: left
     }
 
-/* Main content */
+    /* Main content */
     main {
         margin-top: 81px;
     }
 
-    
+
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -122,5 +144,5 @@ main {
     #menu a:hover {
         border-bottom: 1px solid black;
     }
-    
+
 }
