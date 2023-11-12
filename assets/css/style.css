@@ -64,6 +64,21 @@ main {
     height: 600px;
     width: 100%;
     background: url(../images/arholma1.JPG) no-repeat center center/cover;
+    position: relative;
+}
+
+.text-block {
+    position: absolute;
+    background-color: rgba(178, 193, 163, 0.7);
+    color: #ffffff;
+    font-size: 120%;
+    font-weight: bold;
+    text-align: center;
+    width: 80%;
+    bottom: 20px;
+    left: 5px;
+    padding: 20px;
+
 }
 
 /* Footer */
@@ -142,6 +157,11 @@ footer div {
         margin-top: 81px;
     }
 
+    .text-block {
+        width: 350px;
+        right: 75px;
+        left: 30px;
+    }
 
 }
 
@@ -153,6 +173,11 @@ footer div {
 
     .column i:hover {
         background-color: rgb(0, 251, 255);
+    }
+
+    /* Main content */
+    .text-block {
+        bottom: 100px;
     }
 
 }
