@@ -157,6 +157,13 @@ footer div {
     color: black;
 }
 
+/* Media query: large or landscape phones (576px and up */
+@media screen and (min-width: 576px) {
+    #images {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
 
 /* Media query: tablets and larger (768px and up */
 @media screen and (min-width: 768px) {
@@ -193,6 +200,11 @@ footer div {
         left: 30px;
     }
 
+    /* Gallery */
+    #images {
+        column-count: 3;
+    }
+
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -220,6 +232,11 @@ footer div {
      /* Hover effect for footer icons */
     .column i:hover {
         background-color: #695d5d;
+    }
+
+    /* Gallery */
+    #images {
+        column-count: 4;
     }
 
 }
