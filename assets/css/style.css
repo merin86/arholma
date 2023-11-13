@@ -101,6 +101,16 @@ main {
     
 }
 
+/* Gallery */
+#images img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#images {
+    line-height: 0;
+}
+
 /* Footer */
 footer {
     display: flex;
