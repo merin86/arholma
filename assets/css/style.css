@@ -150,12 +150,12 @@ main {
     border-radius: 10px;
     overflow: hidden;
     margin: 20px;
-
 }
 
 .hostel img {
     width: 100%;
     height: auto;
+    display: block;
 }
 
 .hostel-content {
