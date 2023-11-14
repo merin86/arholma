@@ -127,7 +127,7 @@ main {
 }
 
 #hostel-heading {
-    
+
     padding: 2rem;
     background-color: rgba(178, 193, 163, 0.4);
     color: #ffffff;
@@ -230,6 +230,15 @@ footer div {
         column-count: 2;
         column-gap: 0;
     }
+
+    #hostel-section > div {
+        display: flex;
+        justify-content: center;
+    }
+
+    #hostel-heading {
+        width: 500px;
+    }
 }
 
 /* Media query: tablets and larger (768px and up */
@@ -240,7 +249,6 @@ footer div {
 
     nav {
         float: right;
-
     }
 
     #menu {
