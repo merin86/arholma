@@ -19,3 +19,9 @@ Arholma is an island in Stockholm archipelago. This website provides brief infor
 ## Credits
 
 
+Pictures
+* Arholma Nord: (https://www.tripadvisor.se/)
+* Bull August: (https://trippa.se/)
+* Österhamns pensionat: (https://www.roslagen.se/)
+
+
