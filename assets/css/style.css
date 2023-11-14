@@ -302,14 +302,21 @@ footer div {
         transform: translateY(4px);
     }
 
+    /* Gallery */
+    #images {
+        column-count: 4;
+    }
+
+    /* Hover effect for Book room */
+    .btn:hover {
+        background-color: #292626;
+    }
+
     /* Hover effect for footer icons */
     .column i:hover {
         background-color: #695d5d;
     }
 
-    /* Gallery */
-    #images {
-        column-count: 4;
-    }
+    
 
 }
