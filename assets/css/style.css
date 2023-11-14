@@ -18,6 +18,15 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+h1 {
+    font-family: 'Sintony', sans-serif;
+    letter-spacing: 2px;
+}
+
+h2, h3 {
+    font-family: 'Sintony', sans-serif;
+}
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -30,11 +39,6 @@ header {
 header a {
     text-decoration: none;
     color: inherit;
-}
-
-h1 {
-    font-family: 'Sintony', sans-serif;
-    letter-spacing: 2px;
 }
 
 #menu {
@@ -109,6 +113,20 @@ main {
 
 #images {
     line-height: 0;
+}
+
+/* Hostels */
+#hostel-heading {
+    position: absolute;
+    padding: 2rem;
+    background-color: rgba(178, 193, 163, 0.4);
+    color: #ffffff;
+    font-size: 140%;
+    font-weight: bold;
+    text-align: center;
+    width: 80%;
+    text-transform: uppercase;
+    margin: 2rem;
 }
 
 /* Footer */
