@@ -296,6 +296,7 @@ footer div {
     /* Hover effect for buttons */
     .button:hover {
         background-color: #695d5d;
+        color: #ffffff;
     }
 
     .button:active {
