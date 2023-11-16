@@ -85,6 +85,19 @@ Arholma is an island in Stockholm archipelago. This website provides brief infor
 
 ## Technologies Used
 
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+-   [Google Fonts](https://fonts.google.com/)
+-   [Font Awesome](https://fontawesome.com/)
+-   GitPod
+-   [GitHub](https://github.com/)
+-   [TinyPNG](https://tinypng.com/)
+-   [Balsamiq](https://balsamiq.com/)
 
 
 ## Testing
