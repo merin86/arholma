@@ -2,17 +2,55 @@
 
 [The actual website](https://merin86.github.io/arholma/)
 
-Arholma is an island in Stockholm archipelago. This website provides brief information about the island, pictures in a gallery that shows what the island has to offer and a page listing hostels to choose from. The website's target group is tourists who want to experience the archipelago in Stockholm.
+Arholma is an island in Stockholm archipelago. This website provides brief information about the island, how to get there, pictures in a gallery that shows what the island has to offer and a page listing hostels to choose from. The website's target group is tourists who want to experience the archipelago in Stockholm.
 
-![Mockup](documentation/supp-images/Responsive.jpg)
+![Mockup](documentation/supp-images/responsive.jpg)
 
 ## Contents
 
+## User Experience (UX)
+
+- ### User stories
+
+    -   #### A. First Time Visitor Goals
+
+        1. As a first time visitor, I want to understand the purpose of the homepage and be motivated to explore further about the island.
+        2. As a first-time visitor, I want to be able to easily understand how to find the content I'm looking for on the website.
+        3. As a first-time visitor, I want it to be easy to find out how to get there and where to stay.
+
+    -   #### B. Returning Visitor Goals
+        1. As a Returning Visitor, I want it to be quick and easy to find the links on how to get to the island.
+        2. As a Returning Visitor, I want it to be quick and easy to find the links for how to book rooms on the island.
+
+    -   #### C. Frequent User Goals
+        1. As a Frequent User, I want to use the site as a starting point for when I book rooms at the island's various hostels.
 
 
 ## Features
 
+-   Navigation
 
+    - In the upper left corner, the logo "Visit Arholma" is displayed, which is a link to the front page of the website.
+    - In the upper right corner, are the links to the other pages of the website: "Home", Gallery" and "Hostels".
+    - The navigation bar is included on all three pages and is also responsive depending on the screen size. On mobile phones, the links to the various pages are located below the logo.
+
+    ![Navbar](documentation/supp-images/navbar.jpg)
+
+-   Front Page
+
+    - The front page mostly consists of the "hero" image with a strip of text that together wants to give the impression of calm and harmony on the island. The color theme is matte, which also generates a calm impression for the user.
+    - The two buttons, placed directly below the image, create clarity for the user about what the website has to offer.
+
+    ![Front Page](documentation/supp-images/front-page.jpg)
+
+    ![Buttons](documentation/supp-images/buttons.jpg)
+
+- Footer
+
+    - The Footer is visible on all pages and always looks the same to be user-friendly. It consists of a text: "How to get there", with three icons underneath. The first icon is a bus, a link that takes you to SL.se where you can search for bus tours. The second icon is a boat, a link to Waxholmsbolaget where you can search for boat trips. The third is a location dot, a link to Google Maps where you can plan your journey by yourself.
+
+    ![Footer](documentation/supp-images/footer.jpg)
+    
 
 ## Testing
 
