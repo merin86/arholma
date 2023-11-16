@@ -107,19 +107,56 @@ Arholma is an island in Stockholm archipelago. This website provides brief infor
 - HTML Validator
     - result for index.html
     ![HTML results index](documentation/supp-images/validation.jpg)
-    - 
+
+    - result for gallery.html
+    ![HTML results gallery](documentation/supp-images/validation2.jpg)
+
+    - result for hostels.html
+    ![HTML results hostels](documentation/supp-images/validation3.jpg)
+
+- CSS Validator
+    - result for style.css
+    ![CSS Validator](documentation/supp-images/css-validation.jpg)
+
+- Accessibility
+    - Accessibility has reached 97% after testing through Lighthouse under DevTools.
+    ![Lighthouse](documentation/supp-images/lighthouse.jpg)
+
+### Unfixed Bugs
+
+No unfixed bugs
 
 
 ## Deployment
 
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+    - In the GitHub repository, navigate to the Settings tab, then choose Pages from the left hand menu.
+    - From the source section drop-down menu, select the Master Branch.
+    - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+    - Any changes pushed to the master branch will take effect on the live project.
+
+  The live link can be found here - [Visit Arholma](https://merin86.github.io/arholma/)
 
 
 ## Credits
 
+### Content
+- The content on the hostel page was obtained from the hostels' websites
+- All other content was written by the developer
 
-Pictures
-* Arholma Nord: (https://www.tripadvisor.se/)
-* Bull August: (https://trippa.se/)
-* Österhamns pensionat: (https://www.roslagen.se/)
+### Code
+- The structure of the website is taken from the "Love Running" website. Some codes have been copied from there and then alternated to fit this website.
+- The code structure for the hostel page came from information on this video: [Responsive CSS tutorial video](https://www.youtube.com/watch?v=9FNNkzPBFcE)
+- This previous PP1 project has been used as a source of inspiration for the website, as well as to create this README.md: [THRIVE](https://elainebroche-dev.github.io/ms1-thrive/)
+- Much of the code to create this website comes from this webpage: [W3Schools](https://www.w3schools.com/)
+
+### Media
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The fonts used were imported from [Google Fonts](https://fonts.google.com/)
+- All images are the developer's, with the exception of the images of the three hostels. These images were taken from the following websites:
+    - [Arholma Nord](https://www.tripadvisor.se/)
+    - [Bull August](https://trippa.se/)
+    - [Österhamns pensionat](https://www.roslagen.se/)
+
 
 
