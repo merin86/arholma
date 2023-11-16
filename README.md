@@ -57,9 +57,37 @@ Arholma is an island in Stockholm archipelago. This website provides brief infor
 
     ![Gallery](documentation/supp-images/gallery.jpg)
 
+- Hostels
+
+    - The hostel page gives a brief summary of what the three different hostels to choose from have to offer. To clarify the content for the user, the hostels have been divided into three panels. The hostels to choose from are: "Arholma Nord", "Bull August" and "Österhamns pensionat".
+    - The page uses a consistent look and feel by using the same background image used for the front page, and by applying the same background color to the panels as used on the main page text strip.
+
+    ![Hostels](documentation/supp-images/hostels.jpg)
+
+
+## Design
+
+-   Wireframe
+
+    - Wireframe used as a starting point for the design of the website.
+
+![Wireframe](documentation/supp-images/wireframe.jpg)
+
+- Colour
+    - The main color used in the project can be seen below. It is a dull green color to give a calm and harmonious impression. In addition to this, only black and white have been used, as well as a grayer scale for shadows.
+
+    ![Colour](documentation/supp-images/color.jpg)
+
+- Typography
+
+    - Google Fonts was used to import Poppins and Sintony fonts into styles.css. These were chosen as they work well together and are easy to read.
+
+
+## Technologies Used
+
+
 
 ## Testing
-
 
 
 
