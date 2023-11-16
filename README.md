@@ -102,6 +102,11 @@ Arholma is an island in Stockholm archipelago. This website provides brief infor
 
 ## Testing
 
+### Validator Testing
+
+- HTML Validator
+    - result for index.html
+    
 
 
 ## Deployment

@@ -28,6 +28,10 @@ h3 {
     font-family: 'Sintony', sans-serif;
 }
 
+.hidden-heading {
+    display: none;
+}
+
 /* Header */
 header {
     background-color: #ffffff;
