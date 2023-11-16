@@ -50,7 +50,13 @@ Arholma is an island in Stockholm archipelago. This website provides brief infor
     - The Footer is visible on all pages and always looks the same to be user-friendly. It consists of a text: "How to get there", with three icons underneath. The first icon is a bus, a link that takes you to SL.se where you can search for bus tours. The second icon is a boat, a link to Waxholmsbolaget where you can search for boat trips. The third is a location dot, a link to Google Maps where you can plan your journey by yourself.
 
     ![Footer](documentation/supp-images/footer.jpg)
-    
+
+- Gallery
+
+    - The gallery gives the user an idea of what the island looks like and what it has to offer.
+
+    ![Gallery](documentation/supp-images/gallery.jpg)
+
 
 ## Testing
 
