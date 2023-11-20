@@ -358,4 +358,12 @@ footer div {
 body {
     padding: 0 20%;
 }
+
+header {
+    position: relative;
+}
+
+main {
+    margin-top: 0;
+}
 }
