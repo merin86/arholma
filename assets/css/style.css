@@ -103,7 +103,7 @@ main {
 
 .info-block {
     background-color: rgba(178, 193, 163);
-    color: #ffffff;
+    color: black;
     border-radius: 4px;
     font-size: 80%;
     padding: 20px;
@@ -187,7 +187,7 @@ main {
 .hostel-content {
     padding: 10px;
     background-color: rgba(178, 193, 163);
-    color: #ffffff;
+    color: black;
 }
 
 .hostel-content h3 {
@@ -315,8 +315,8 @@ footer div {
     }
 
     /* Main content */
-    .text-block {
-        
+    .info-block {
+        padding: 30px 200px;
     }
 
     /* Hover effect for buttons */
