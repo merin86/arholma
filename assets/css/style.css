@@ -135,6 +135,16 @@ main {
 }
 
 /* Gallery */
+#gallery {
+    display: flex;
+    flex-direction: column;
+}
+
+.gallery-heading {
+    align-self: center;
+    padding: 20px;
+}
+
 #images img {
     width: 100%;
     line-height: 1em;
@@ -338,6 +348,10 @@ footer div {
     }
 
     /* Gallery */
+    .gallery-heading {
+        font-size: 280%;
+    }
+
     #images {
         column-count: 4;
     }
