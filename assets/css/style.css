@@ -306,6 +306,12 @@ footer div {
         column-count: 3;
     }
 
+    /* Hostels */
+    .hostel {
+        height: 570px;
+        background-color: rgba(178, 193, 163);
+    }
+
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -345,7 +351,11 @@ footer div {
     .column i:hover {
         background-color: #695d5d;
     }
+}
 
-    
-
+/* Large devices (4k 2000px and more) */
+@media screen and (min-width: 2000px) {
+body {
+    padding: 0 20%;
+}
 }
