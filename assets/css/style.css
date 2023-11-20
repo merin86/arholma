@@ -46,6 +46,13 @@ header a {
     color: inherit;
 }
 
+#logo {
+    letter-spacing: 2px;
+    font-family: 'Sintony', sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
 #menu {
     font-size: 110%;
     letter-spacing: 1px;
@@ -88,10 +95,23 @@ main {
     font-weight: bold;
     text-align: center;
     width: 80%;
-    bottom: 20px;
+    top: 40px;
     left: 5px;
     padding: 20px;
 
+}
+
+.info-block {
+    background-color: rgba(178, 193, 163);
+    color: #ffffff;
+    border-radius: 4px;
+    font-size: 80%;
+    padding: 20px;
+
+}
+
+.info-block a {
+    text-decoration: none;
 }
 
 #buttons {
@@ -265,7 +285,9 @@ footer div {
         font-size: 280%;
         line-height: 75px;
         margin: 0 0.5rem;
-        float: left
+        float: left;
+        letter-spacing: 2px;
+        font-family: 'Sintony', sans-serif;
     }
 
     /* Main content */
@@ -294,7 +316,7 @@ footer div {
 
     /* Main content */
     .text-block {
-        bottom: 100px;
+        
     }
 
     /* Hover effect for buttons */
