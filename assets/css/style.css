@@ -272,7 +272,7 @@ footer div {
         column-gap: 0;
     }
 
-    #hostel-section > div {
+    #hostel-section>div {
         display: flex;
         justify-content: center;
     }
@@ -378,15 +378,15 @@ footer div {
 
 /* Large devices (4k 2000px and more) */
 @media screen and (min-width: 2000px) {
-body {
-    padding: 0 20%;
-}
+    body {
+        padding: 0 20%;
+    }
 
-header {
-    position: relative;
-}
+    header {
+        position: relative;
+    }
 
-main {
-    margin-top: 0;
-}
+    main {
+        margin-top: 0;
+    }
 }
