@@ -86,6 +86,12 @@ main {
     height: 600px;
 }
 
+#hero-hostels {
+    width: 100%;
+    position: relative;
+    background-color: #CEE2EE;
+}
+
 .text-block {
     position: absolute;
     background-color: rgba(178, 193, 163, 0.7);
@@ -320,6 +326,10 @@ footer div {
     .hostel {
         height: 570px;
         background-color: rgba(178, 193, 163);
+    }
+
+    #hero-hostels {
+        background: url(../images/arholma1.JPG) no-repeat center center/cover;
     }
 
 }
