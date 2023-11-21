@@ -155,10 +155,10 @@ No unfixed bugs
 - All other content was written by the developer
 
 ### Code
-- The structure of the website is taken from the "Love Running" website. Some codes have been copied from there and then alternated to fit this website.
+- The structure of the website is taken from the "Love Running" website. Some codes have been copied from there and then alternated to fit this website. The gallery page was copied straight from "Love Running", where own pictures were inserted.
 - The code structure for the hostel page came from information on this video: [Responsive CSS tutorial video](https://www.youtube.com/watch?v=9FNNkzPBFcE)
-- This previous PP1 project has been used as a source of inspiration for the website, as well as to create this README.md: [THRIVE](https://elainebroche-dev.github.io/ms1-thrive/)
-- Much of the code to create this website comes from this webpage: [W3Schools](https://www.w3schools.com/)
+- The following previous PP1 project has been used as a source of inspiration for the website, as well as to create this README.md: [THRIVE](https://elainebroche-dev.github.io/ms1-thrive/)
+- The following web page has been used as a learning tool and source of inspiration to create own codes for the website: [W3Schools](https://www.w3schools.com/)
 
 ### Media
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
@@ -168,5 +168,6 @@ No unfixed bugs
     - [Bull August](https://trippa.se/)
     - [Österhamns pensionat](https://www.roslagen.se/)
 
+### Acknowledgment
 
-
+- I would like to thank my mentor, Adeye Adegbenga, for all the help he has given me, as well as my coursemate "Lana" who has been available to me during the creation of this website.
