@@ -68,7 +68,7 @@ Arholma is an island in Stockholm archipelago. This website provides brief infor
 - Hostels
 
     - The hostel page gives a brief summary of what the three different hostels to choose from have to offer. To clarify the content for the user, the hostels have been divided into three panels. The hostels to choose from are: "Arholma Nord", "Bull August" and "Österhamns pensionat".
-    - The page uses a consistent look and feel by using the same background image used for the front page, and by applying the same background color to the panels as used on the main page text strip.
+    - The page uses a consistent look and feel by using the same background image used for the front page, with the exception of smaller screens (mobile phones) as the image was too stretched in this format. The same background colour was applied to the panels as used on the main page text strip for cohesion.
 
     ![Hostels](documentation/supp-images/hostels.jpg)
 
@@ -82,7 +82,7 @@ Arholma is an island in Stockholm archipelago. This website provides brief infor
 ![Wireframe](documentation/supp-images/wireframe.jpg)
 
 - Colour
-    - The main color used in the project can be seen below. It is a dull green color to give a calm and harmonious impression. In addition to this, only black and white have been used, as well as a grayer scale for shadows.
+    - The main color used in the project can be seen below. It is a dull green color to give a calm and harmonious impression. In addition to this, only black and white have been used, as well as a grayer scale for shadows. On the hostel page, a light blue background was used on small screens.
 
     ![Colour](documentation/supp-images/color.jpg)
 
@@ -127,8 +127,10 @@ Arholma is an island in Stockholm archipelago. This website provides brief infor
     ![CSS Validator](documentation/supp-images/css-validation.jpg)
 
 - Accessibility
-    - Accessibility has reached 97% after testing through Lighthouse under DevTools.
-    ![Lighthouse](documentation/supp-images/lighthouse.jpg)
+    - Accessibility has reached 100%, on all pages, after testing through Lighthouse under DevTools.
+    ![Lighthouse page 1](documentation/supp-images/lighthouse.jpg)
+    ![Lighthouse page 2](documentation/supp-images/lighthouse2.jpg)
+    ![Lighthouse page 3](documentation/supp-images/lighthouse3.jpg)
 
 ### Unfixed Bugs
 
