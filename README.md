@@ -6,7 +6,7 @@ Arholma is an island in Stockholm archipelago. This website provides brief infor
 
 ![Mockup](documentation/supp-images/responsive.jpg)
 
-## Contents
+## Content index
 
 * [User Experience (UX)](#user-experience-ux)
 * [Features](#features)
@@ -22,7 +22,7 @@ Arholma is an island in Stockholm archipelago. This website provides brief infor
 
     -   #### A. First Time Visitor Goals
 
-        1. As a first time visitor, I want to understand the purpose of the homepage and be motivated to explore further about the island.
+        1. As a first time visitor, I want to understand the purpose of the homepage and be motivated to visit the island.
         2. As a first-time visitor, I want to be able to easily understand how to find the content I'm looking for on the website.
         3. As a first-time visitor, I want it to be easy to find out how to get there and where to stay.
 
@@ -46,8 +46,8 @@ Arholma is an island in Stockholm archipelago. This website provides brief infor
 
 -   Front Page
 
-    - The front page mostly consists of the "hero" image with a strip of text that together wants to give the impression of calm and harmony on the island. The color theme is matte, which also generates a calm impression for the user.
-    - The two buttons, placed directly below the image, create clarity for the user about what the website has to offer.
+    - The front page consists of the "hero" image with a strip of text that together wants to give the impression of calm and harmony on the island and a text box with information about the island. The color theme is matte, which also generates a calm impression for the user.
+    - The two buttons, placed directly below the text, create clarity for the user about what the website has to offer.
 
     ![Front Page](documentation/supp-images/front-page.jpg)
 
