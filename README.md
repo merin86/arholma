@@ -8,6 +8,14 @@ Arholma is an island in Stockholm archipelago. This website provides brief infor
 
 ## Contents
 
+* [User Experience (UX)](#user-experience-ux)
+* [Features](#features)
+* [Design](#design)
+* [Technologies Used](#technologies-used)
+* [Testing](#testing)
+* [Deployment](#deployment)
+* [Credits](#credits)
+
 ## User Experience (UX)
 
 - ### User stories
