@@ -375,18 +375,3 @@ footer div {
         background-color: #695d5d;
     }
 }
-
-/* Large devices (4k 2000px and more) */
-@media screen and (min-width: 2000px) {
-    body {
-        padding: 0 20%;
-    }
-
-    header {
-        position: relative;
-    }
-
-    main {
-        margin-top: 0;
-    }
-}
