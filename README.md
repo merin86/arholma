@@ -134,7 +134,9 @@ Arholma is an island in Stockholm archipelago. This website provides brief infor
 
 ### Unfixed Bugs
 
-No unfixed bugs
+- My mentor pointed out to me that the website is not responsive on iPad Pro and 4k screens (and maybe other screen sizes too that have not been detected). I have tried to solve this, but have not succeeded. I am attaching a picture below:
+
+![Non-responsive image](documentation/supp-images/non-responsive-image.jpg)
 
 
 ## Deployment
